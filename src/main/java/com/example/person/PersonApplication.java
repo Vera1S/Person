@@ -12,7 +12,7 @@ public class PersonApplication {
         Person person = new Person();
         Person secondPerson = new Person();
 
-        System.out.println("Person is creaded ");
+        System.out.println("Person is created ");
     }
 
 }
